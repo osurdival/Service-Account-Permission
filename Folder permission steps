@@ -1,0 +1,5 @@
+1. Right click on folder, properties and security
+2, Click Edit and then add
+3. Select the computer \ server name
+4. Type nt service\MS or  nt service\SQL 
+Click check name and a list will appear
